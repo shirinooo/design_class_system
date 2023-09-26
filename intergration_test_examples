@@ -1,0 +1,5 @@
+
+- count_word method in the diary entry could be used in count_words method for diary
+
+- find_best_entry in diary could use a method from diary entry class?
+
